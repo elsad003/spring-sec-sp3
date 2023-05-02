@@ -1,6 +1,6 @@
-package com.elsad.secsp3.repository;
+package com.elsad.rediscache.repository;
 
-import com.elsad.secsp3.models.entity.User;
+import com.elsad.rediscache.models.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

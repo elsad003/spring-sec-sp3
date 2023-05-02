@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.elsad</groupId>
-	<artifactId>secsp3</artifactId>
+	<artifactId>redis-cache-user</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>secsp3</name>
+	<name>redis-cache</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>

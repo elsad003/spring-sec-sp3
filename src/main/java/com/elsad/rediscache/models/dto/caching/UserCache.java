@@ -1,6 +1,6 @@
-package com.elsad.secsp3.models.dto.caching;
+package com.elsad.rediscache.models.dto.caching;
 
-import com.elsad.secsp3.models.entity.User;
+import com.elsad.rediscache.models.entity.User;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.experimental.Accessors;

@@ -1,7 +1,7 @@
-package com.elsad.secsp3.api;
+package com.elsad.rediscache.api;
 
-import com.elsad.secsp3.models.entity.User;
-import com.elsad.secsp3.repository.UserRepository;
+import com.elsad.rediscache.models.entity.User;
+import com.elsad.rediscache.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;

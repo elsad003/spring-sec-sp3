@@ -1,4 +1,4 @@
-package com.elsad.secsp3.config;
+package com.elsad.rediscache.config;
 
 import org.springframework.boot.autoconfigure.data.redis.RedisProperties;
 import org.springframework.context.annotation.Bean;

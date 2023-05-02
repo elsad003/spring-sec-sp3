@@ -1,4 +1,4 @@
-package com.elsad.secsp3.models.entity;
+package com.elsad.rediscache.models.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

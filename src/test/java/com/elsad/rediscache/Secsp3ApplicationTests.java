@@ -1,4 +1,4 @@
-package com.elsad.secsp3;
+package com.elsad.rediscache;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,7 +1,7 @@
-package com.elsad.secsp3.config;
+package com.elsad.rediscache.config;
 
-import com.elsad.secsp3.models.entity.User;
-import com.elsad.secsp3.service.UserDetailsServiceImpl;
+import com.elsad.rediscache.models.entity.User;
+import com.elsad.rediscache.service.UserDetailsServiceImpl;
 import io.jsonwebtoken.*;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

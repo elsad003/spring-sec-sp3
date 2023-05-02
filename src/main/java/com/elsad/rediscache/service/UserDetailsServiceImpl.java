@@ -1,9 +1,9 @@
-package com.elsad.secsp3.service;
+package com.elsad.rediscache.service;
 
-import com.elsad.secsp3.models.dto.caching.UserCache;
-import com.elsad.secsp3.models.entity.User;
-import com.elsad.secsp3.repository.UserRepository;
-import com.elsad.secsp3.repository.redis.CachedUserRepository;
+import com.elsad.rediscache.models.dto.caching.UserCache;
+import com.elsad.rediscache.models.entity.User;
+import com.elsad.rediscache.repository.UserRepository;
+import com.elsad.rediscache.repository.redis.CachedUserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

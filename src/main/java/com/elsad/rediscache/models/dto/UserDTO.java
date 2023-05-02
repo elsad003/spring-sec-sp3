@@ -1,6 +1,6 @@
-package com.elsad.secsp3.models.dto;
+package com.elsad.rediscache.models.dto;
 
-import com.elsad.secsp3.models.entity.Role;
+import com.elsad.rediscache.models.entity.Role;
 import lombok.Data;
 
 import java.util.Set;

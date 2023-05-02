@@ -1,12 +1,12 @@
-package com.elsad.secsp3.api;
+package com.elsad.rediscache.api;
 
 
-import com.elsad.secsp3.config.JwtUtils;
-import com.elsad.secsp3.models.dto.AuthenticationDTO;
-import com.elsad.secsp3.models.entity.Role;
-import com.elsad.secsp3.models.entity.User;
-import com.elsad.secsp3.repository.RoleRepository;
-import com.elsad.secsp3.repository.UserRepository;
+import com.elsad.rediscache.config.JwtUtils;
+import com.elsad.rediscache.models.dto.AuthenticationDTO;
+import com.elsad.rediscache.models.entity.Role;
+import com.elsad.rediscache.models.entity.User;
+import com.elsad.rediscache.repository.RoleRepository;
+import com.elsad.rediscache.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;

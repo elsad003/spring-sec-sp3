@@ -1,6 +1,6 @@
-package com.elsad.secsp3.service;
+package com.elsad.rediscache.service;
 
-import com.elsad.secsp3.models.entity.User;
+import com.elsad.rediscache.models.entity.User;
 
 import java.util.List;
 

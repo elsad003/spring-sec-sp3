@@ -1,6 +1,6 @@
-package com.elsad.secsp3.config;
+package com.elsad.rediscache.config;
 
-import com.elsad.secsp3.service.UserDetailsServiceImpl;
+import com.elsad.rediscache.service.UserDetailsServiceImpl;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

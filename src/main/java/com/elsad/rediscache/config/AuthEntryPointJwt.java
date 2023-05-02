@@ -1,4 +1,4 @@
-package com.elsad.secsp3.config;
+package com.elsad.rediscache.config;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
