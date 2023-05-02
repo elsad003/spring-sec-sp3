@@ -1,6 +1,6 @@
 package com.elsad.secsp3.service;
 
-import com.elsad.secsp3.entity.User;
+import com.elsad.secsp3.models.entity.User;
 
 import java.util.List;
 

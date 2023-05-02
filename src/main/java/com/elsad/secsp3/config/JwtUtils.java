@@ -1,6 +1,6 @@
 package com.elsad.secsp3.config;
 
-import com.elsad.secsp3.entity.User;
+import com.elsad.secsp3.models.entity.User;
 import com.elsad.secsp3.service.UserDetailsServiceImpl;
 import io.jsonwebtoken.*;
 import lombok.extern.slf4j.Slf4j;

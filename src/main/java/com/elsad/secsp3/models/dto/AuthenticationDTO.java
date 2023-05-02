@@ -1,4 +1,4 @@
-package com.elsad.secsp3.dto;
+package com.elsad.secsp3.models.dto;
 
 import lombok.Data;
 

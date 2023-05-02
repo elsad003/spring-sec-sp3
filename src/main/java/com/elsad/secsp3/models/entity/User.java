@@ -1,4 +1,4 @@
-package com.elsad.secsp3.entity;
+package com.elsad.secsp3.models.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

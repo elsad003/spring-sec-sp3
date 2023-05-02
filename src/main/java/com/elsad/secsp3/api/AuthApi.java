@@ -2,9 +2,9 @@ package com.elsad.secsp3.api;
 
 
 import com.elsad.secsp3.config.JwtUtils;
-import com.elsad.secsp3.dto.AuthenticationDTO;
-import com.elsad.secsp3.entity.Role;
-import com.elsad.secsp3.entity.User;
+import com.elsad.secsp3.models.dto.AuthenticationDTO;
+import com.elsad.secsp3.models.entity.Role;
+import com.elsad.secsp3.models.entity.User;
 import com.elsad.secsp3.repository.RoleRepository;
 import com.elsad.secsp3.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
