@@ -11,7 +11,7 @@ import org.springframework.data.redis.core.index.Indexed;
 @AllArgsConstructor
 @Getter
 @Accessors(chain = true)
-@RedisHash("cacheData")
+@RedisHash(value = "userCache")
 public class UserCache {
     @Id
     private String key;
